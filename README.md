@@ -12,7 +12,7 @@ I have created this app by watching a youtube video.
 
 ## Tech Stack
 
-**Tech** React Native, HTML, Tailwind
+**Tech** React Native, Expo, NativeWind
 
 ## Features
 
