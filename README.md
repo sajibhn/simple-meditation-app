@@ -1,4 +1,30 @@
-# Welcome to your Expo app 👋
+# Simple-Meditation-App
+
+I have created this meditation app using React Native and Tailwind. In this app you can see the inforamation about meditation and perform meditation sessions upto 15 minutes.
+I have created this app by watching a youtube video.
+
+# Video link
+ - [video link](https://youtu.be/9UKCv9T_rIo?si=GBZRL_SEMFyAYdp6)
+
+## Screenshots
+
+![App Screenshot](./simple-med-demo.gif)
+
+## Tech Stack
+
+**Tech** React Native, HTML, Tailwind
+
+## Features
+
+- Information about Meditation and Meditation sessions.
+
+
+## What I have learn
+
+- React Native routing.
+- send data from different page.
+- how to create slider.
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
